@@ -1,4 +1,4 @@
-Markdown
+
 # Arrays e Objetos em JavaScript 
 
 Este repositório foi criado para utilizar de forma prática os conceitos fundamentais de **Arrays** e **Objetos** em JavaScript.
